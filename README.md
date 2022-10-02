@@ -1,3 +1,8 @@
+HW completed for week 2 of Data Visualization Bootcamp -- University of Minnesota
+by Sam Holland
+
+
+
 # VBA Homework: The VBA of Wall Street
 
 ## Background
